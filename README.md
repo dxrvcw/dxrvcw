@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dxrvcw
 - 👀 I’m the best front dev ever
-- 🌱 I’m currently being loved by css
+- 🌱 I’m currently being loved by js
 - 😄 Pronouns: kuda vono poihalo blyat`
 
 <!---
