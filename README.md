@@ -1,8 +1,6 @@
 - Hi, I’m @dxrvcw 🐭
 - I’m the best frontend developer ever (not yet🤧)
-- Currently, I study JavaScript 👈
-
-💕HTML💕CSS💕JS💕REACT💕
+- Currently, I study React framework
 
 
 <!---
