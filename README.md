@@ -1,6 +1,6 @@
 - Hi, I’m @dxrvcw 🐭
 - I’m the best frontend developer ever (not yet🤧)
-- Currently, I study React framework
+- Currently, I study NextJS framework
 
 
 <!---
